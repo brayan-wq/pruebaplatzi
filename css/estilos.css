@@ -4,3 +4,9 @@ body{
     background-color: black;
 }
 
+#Container{
+    border-radius: 1em;
+    border-style: solid;
+    border-color: rgb(241, 241, 255);
+    border-width: 0.3em;
+}
