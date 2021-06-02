@@ -10,3 +10,18 @@ body{
     border-color: rgb(241, 241, 255);
     border-width: 0.3em;
 }
+
+#cabecera {
+    border-radius: 1em;
+    border-style: solid;
+    border-color: rgb(255, 42, 227);
+    border-width: 0.3em; 
+    display: flex;
+    align-items: center;
+    background-color: rgb(245, 218, 239);
+}
+
+h2{
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+}
